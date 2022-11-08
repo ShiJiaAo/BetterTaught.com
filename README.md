@@ -1,1 +1,1 @@
-# BetterTaught.com
+A website I made for booking music teachers. This website aims to ease the process of finding a music teacher and to help music teachers by making them more visible online. Written in HTML, CSS and Javascript.
